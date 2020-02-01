@@ -1,0 +1,22 @@
+{
+  "name": "discord-countdown-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reillyhewitson/discord-countdown-bot.git"
+  },
+  "author": "Reilly Hewitson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reillyhewitson/discord-countdown-bot/issues"
+  },
+  "homepage": "https://github.com/Reillyhewitson/discord-countdown-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
